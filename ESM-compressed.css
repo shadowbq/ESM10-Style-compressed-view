@@ -1,0 +1,59 @@
+@-moz-document domain("esm") {
+.ui-core-bar-chart-unstacked .ui-core-bar-chart-category {
+    margin-top: 1px;
+}
+.siem-dashboard {
+    height: 50px;
+    padding-top: 0px;
+}
+.siem-gridster-container {
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.siem-widget-header-title {
+    color: #0171c6;
+    float: left;
+    font-size: 17px;
+    height: 40px;
+    line-height: 40px;
+}
+.siem-widget-header-buttons {
+    height: 40px;
+    font-size: 17px;
+}
+.siem-widget-header {
+    height: 40px;
+}
+.siem-widget-header-buttons .siem-binding-flag {
+    margin-top: 12px;
+}
+.siem-widget-header-buttons .intelicon-expand,
+.siem-widget-header-buttons .intelicon-shrink {
+    margin-top: 12px;
+}
+.ui-core-title-event {
+    height: 20px;
+    padding: 2px 15px 0;
+}
+ui-core-sliding-menu .uc-sliding-menu-list .uc-dropdown-group {
+    font-size: 13px;
+    border: 0;
+    padding: 0px;
+}
+.db-last-query-selected-wrapper {
+    border-bottom: 1px solid #e0e4e6;
+    padding: 1px 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+.db-all-query-selected-wrapper {
+    padding: 1px 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+.db-last-query-selected-wrapper .clear-recent-views {
+    padding: 1px 0;
+}
+}
